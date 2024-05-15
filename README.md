@@ -1,5 +1,5 @@
-# costycnc-inkscape-1.0
+#This is a fork project of costycnc/costycnc-inkscape-1.0 to be used with our HotWire cutter connected with PenPlotter
 
 put folder gcode in C:\Program Files\Inkscape\share\inkscape\extensions
 
-How install extension https://www.youtube.com/watch?v=51S8nDTFHPA
+
