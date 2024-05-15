@@ -19,9 +19,6 @@ class hello(inkex.EffectExtension):
         pars.add_argument(
             "--dpi", type=float, default=96, help="DPI "
         )
-        pars.add_argument(
-            "--port", type=str, default="com4",help="Port"
-        )
 
     def effect(self):
     
