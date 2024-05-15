@@ -8,7 +8,7 @@
   <param name="port" type="string" gui-text="Port:">com3</param>
   <effect>
     <effects-menu>
-      <submenu name="costycnc"/>
+      <submenu name="costycnc-ostriv-version"/>
     </effects-menu>
   </effect>
   <script>
